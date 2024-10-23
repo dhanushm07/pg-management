@@ -1,0 +1,2 @@
+"* symbol  mention as not mandatory"
+Lease_Status,Lease_Property,Lease_Unit,Lease_Type,Lease_StartDate,Lease_EndDate,Lease_Frequency,Lease_Currency,Lease_RentAmount,Lease_Document,Lease_SecurityAmount*,Lease_SecurityType*,Lease_GracePeriod*,Lease_GraceDays*,Lease_PaymentType*,Lease_T.C.Amount*,Lease_D.C.effective*,Lease_Comments*,"No.of Tenants",Tenant_Type,Tenant_FirstName,Tenant_LastName,Tenant_Gender,Tenant_Relation*,Tenant_DOB*,Tenant_MiddleName*,Tenant_SSN*,Tenant_DrivingLicense*,Tenant_Language*,Tenant_Comments*
