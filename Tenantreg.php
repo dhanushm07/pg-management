@@ -27,7 +27,7 @@
 
         form {
             background: #fff;
-            padding: 20px;
+            padding: 18px;
             border-radius: 8px;
             max-width: 600px;
             margin: 50px auto;
